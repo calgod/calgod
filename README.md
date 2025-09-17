@@ -1,7 +1,16 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=36&duration=1000&pause=1000&color=1F2429&background=FFFFFF&vCenter=true&repeat=false&width=175&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello!;+I%E2%80%99m+Cal.)](https://git.io/typing-svg)
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=36&duration=1000&pause=1000&color=FFFFFF&background=0D1117&vCenter=true&repeat=false&width=175&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello!;+I%E2%80%99m+Cal.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=36&duration=1000&pause=1000&color=1F2429&background=FFFFFF&vCenter=true&repeat=false&width=175&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello!;+I%E2%80%99m+Cal.">
+    <img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=36&duration=1000&pause=1000&color=1F2429&background=FFFFFF&vCenter=true&repeat=false&width=175&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello!;+I%E2%80%99m+Cal." alt="Typing SVG" />
+  </picture>
+</h1>
 
 I’m a Software Engineer specializing in modern full-stack web applications, with a strong focus on cloud-based solutions. From scalable backends to sleek, user-friendly frontends, I enjoy keeping up with new tools and technologies that help me deliver better solutions.
 
+<details>
+  <summary><b>Skills + Projects + Contact 👇🏻</b></summary>
+  
 ## 🛠️ Skills & Technologies
 
 - **Frontend:** React, Angular, TypeScript, JavaScript  
@@ -31,3 +40,4 @@ Outside of coding, I love going to concerts and discovering new music. Just like
 ---
 
 _Thanks for stopping by!_
+</details>
