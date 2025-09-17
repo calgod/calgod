@@ -17,27 +17,29 @@ I’m a Software Engineer specializing in modern full-stack web applications, wi
   
   <h3>🛠️ Skills & Technologies</h3>
 
-- Frontend: React, Angular, TypeScript, JavaScript  
-- Backend: .NET, Python, REST APIs, GraphQL  
-- Databases: SQL Server, PostgreSQL  
-- Cloud & DevOps:  
-  - AWS: Lambda, Step Functions, SQS, RDS, EC2, S3, CloudFormation, CDK  
-  - Azure: Functions, App Service, Service Bus, Event Hubs, Key Vault, Blob/Files, Virtual Networks  
-  - CI/CD pipelines, containerization, serverless, infrastructure as code  
+  - **Frontend**: React, Angular, TypeScript, JavaScript  
+  - **Backend**: .NET, Python, REST APIs, GraphQL  
+  - **Databases**: SQL Server, PostgreSQL  
+  - **Cloud & DevOps**:  
+    - AWS: Lambda, Step Functions, SQS, RDS, EC2, S3, CloudFormation, CDK  
+    - Azure: Functions, App Service, Service Bus, Event Hubs, Key Vault, Blob/Files, Virtual Networks  
+    - CI/CD pipelines, containerization, serverless, infrastructure as code  
 
-<h3>🚀 Featured Projects</h3>
+  <h3>🚀 Featured Projects</h3>
+  
+  - [Nano-Banana-Worker](https://github.com/calgod/Nano-Banana-Worker) – Serverless experiment with Cloudflare Workers + Google Gen AI SDK  
+  - [ConcertCalendar](https://github.com/calgod/ConcertCalendar) – React app for tracking concerts, Cloudflare Worker backend  
+  
+  <h3>💬 About Me</h3>
+  
+  Outside of coding, I love concerts, discovering music, rock climbing, running, trivia, and hanging with friends.
+  
+  <h3>📫 Get in Touch</h3>
+  
+  - Email: me@calgod.com  
+  - LinkedIn: [linkedin.com/in/calgod/](https://www.linkedin.com/in/calgod/)
+  
+  _Thanks for stopping by!_ 
 
-- [Nano-Banana-Worker](https://github.com/calgod/Nano-Banana-Worker) – Serverless experiment with Cloudflare Workers + Google Gen AI SDK  
-- [ConcertCalendar](https://github.com/calgod/ConcertCalendar) – React app for tracking concerts, Cloudflare Worker backend  
-
-<h3>💬 About Me</h3>
-
-Outside of coding, I love concerts, discovering music, rock climbing, running, trivia, and hanging with friends.
-
-<h3>📫 Get in Touch</h3>
-
-- Email: me@email.com  
-- LinkedIn: []()
-
-_Thanks for stopping by!_
+  <img src="https://github.com/user-attachments/assets/9575c09a-5fe3-4552-88f7-503f5aecdf0e" width="80" alt="Me clapping GIF"> 
 </details>
