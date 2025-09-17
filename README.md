@@ -28,7 +28,9 @@ I’m a Software Engineer specializing in modern full-stack web applications, wi
   <h3>🚀 Featured Projects</h3>
   
   - [Nano-Banana-Worker](https://github.com/calgod/Nano-Banana-Worker) – Serverless experiment with Cloudflare Workers + Google Gen AI SDK  
-  - [ConcertCalendar](https://github.com/calgod/ConcertCalendar) – React app for tracking concerts, Cloudflare Worker backend  
+  - [ConcertCalendar](https://github.com/calgod/ConcertCalendar) – React app for tracking concerts, Cloudflare Worker backend
+  
+  > Most of my work lives in private repositories, but you can check out some of my side projects above!
   
   <h3>💬 About Me</h3>
   
